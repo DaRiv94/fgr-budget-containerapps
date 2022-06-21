@@ -5,8 +5,7 @@
 Microservice Architected application deployed with Infrastructure as Code using Bicep to Microsoft Azure’s new Azure Container Apps offering.
 This Container Apps deployment demonstrates my proficiency with containerization, Azure’s Infrastructure as Code Domain Specific Language Bicep, and use of Azure’s serverless container offering Azure Container Apps. The application use case follows my previous Kubernetes deployment of a personal budget app that connects to bank accounts and allows users to track transactions, and manage budgets.
 
-Learn more about this demo [here](https://frankieriviera.com)
-<!-- Learn more about this demo [here](https://frankieriviera.com/azure-container-apps-deployment) -->
+Learn more about this demo [here](https://frankieriviera.com/portfolio/azure-container-apps-deployment)
 
 Overview of Microservice Architecture
 
